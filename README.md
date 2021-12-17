@@ -5,3 +5,5 @@ This repository contains the code for a final project in UC Berkeley, Fall 2021,
 Bicycle rental data is available from https://www.lyft.com/bikes/bay-wheels/system-data. We augment the rental data with weather data obtained from https://meteostat.net/en/station/72494, MUNI bus stop data available at https://data.sfgov.org/Transportation/Map-of-Muni-Stops/kgz5-a5r3, and extracted time series features.
 
 We present code and results for Linear Regression, CART, Random Forest, Gradient Boosting, and Recurrent Neural Network models for Bay Wheels bicycle rentals. We further provide a more general spatiotemporal analysis that aims to model rentals at a rental location per day.
+
+Contributors: Newton Cheng, Juliette Chevri\`ere, Yiman Hu, Joshua Jacob, & Xingchen Liao
