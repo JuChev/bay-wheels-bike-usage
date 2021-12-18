@@ -7,3 +7,21 @@ Bicycle rental data is available from https://www.lyft.com/bikes/bay-wheels/syst
 We present code and results for Linear Regression, CART, Random Forest, Gradient Boosting, and Recurrent Neural Network models for Bay Wheels bicycle rentals. We further provide a more general spatiotemporal analysis that aims to model rentals at a rental location per day.
 
 Contributors: Newton Cheng, Juliette Chevri\`ere, Yiman Hu, Joshua Jacob, & Xingchen Liao
+
+
+### Reproduce Experiment
+#### Raw Data Collection
+1. Weather data
+    
+2. Location data
+
+3. Lyft bike data
+    - Download the csv files from https://www.lyft.com/bikes/bay-wheels/system-data
+
+#### Data Cleaning
+1. Run data_preprocessing.ipynb to add timestamp and zipcode for raw data collected.
+2. Run data_aggregation.ipynb to aggregate all data to a single dataset.
+
+
+#### Model Training and Testing
+1. Run statistical_models.ipynb and RNN Model.ipynb to reproduce the models.
