@@ -3,7 +3,7 @@
 This repository contains the code for a final project in UC Berkeley, Fall 2021, IEOR 242 taught by Paul Grigas. In this project, we model the number of bicycle rentals per hour in the Bay Wheels service in 2019, with the goal of building robust forecasting models. We also explore the spatiotemporal approach of forecasting bike rental density over time. 
 
 <div align="center">
-  <img alt="Thumnail" src="https://raw.githubusercontent.com/joshuapjacob/bay-wheels-bike-usage/main/thumbnail.png" width="1000" />
+  <img alt="Thumbnail" src="https://raw.githubusercontent.com/joshuapjacob/bay-wheels-bike-usage/main/thumbnail.png" width="1000" />
 </div>
 
 We present code and results for Linear Regression, CART, Random Forest, Gradient Boosting, and Recurrent Neural Network models for total Bay Wheels bicycle rentals per hour. We further provide a more general spatiotemporal analysis with an Random Forest model that aims to predict rentals at each rental location per day.
