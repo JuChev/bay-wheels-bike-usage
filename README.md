@@ -1,6 +1,6 @@
-# IEOR 242 Final Project: Bay Wheels Rentals
+# Modeling Bay Wheels Bike Usage
 
-This repository contains the code for a final project in UC Berkeley, Fall 2021, IEOR 242 taught by Paul Grigas. In this project, we model the number of bicycle rentals per hour in the Bay Wheels service in 2019, with the goal of building robust forecasting models. We also explore the spatiotemporal approach of forecasting bike rental density over time. 
+This repository contains the code for a final project in UC Berkeley, Fall 2021, IEOR 242 taught by Paul Grigas. In this project, we model the number of bicycle rentals per hour in the Bay Wheels service for 2018 and the first half of 2019 with the goal of building robust forecasting models. We also explore the spatiotemporal approach of forecasting bike rental density over time. 
 
 <div align="center">
   <img alt="Thumbnail" src="https://raw.githubusercontent.com/joshuapjacob/bay-wheels-bike-usage/main/thumbnail.png" width="1000" />
